@@ -4,9 +4,9 @@
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 20px; border: 2px solid #e0e0e0; border-radius: 10px; background-color: #333333;">
-    <h2 style="color: #FFFFFF;">👨‍💻 關於我 | About Me</h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=🎯+程式設計初學者+|+Programming+Beginner;🌱+網頁前端開發初學者+|+Frontend+Development+Beginner;🤖+機器學習初學者+|+Machine+Learning+Beginner;📱+鴻蒙OS開發初學者+|+HarmonyOS+Development+Beginner" alt="Typing SVG" />
+  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 20px; border: 2px solid #e0e0e0; border-radius: 10px; background-color: #f0f0f0;">
+    <h2 style="color: #333333;">👨‍💻 關於我 | About Me</h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=🎯+程式設計初學者+|+Programming+Beginner;🌱+網頁前端開發初學者+|+Frontend+Development+Beginner;🤖+機器學習初學者+|+Machine+Learning+Beginner;📱+鴻蒙OS開發初學者+|+HarmonyOS+Development+Beginner" alt="Typing SVG" />
   </div>
 
   <div style="flex: 1; min-width: 300px; margin: 10px; padding: 20px; border: 2px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9;">
