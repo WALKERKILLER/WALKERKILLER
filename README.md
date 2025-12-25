@@ -22,12 +22,6 @@
     </div>
   </div>
 
-  <div style="flex: 1; min-width: 300px; margin: 10px; padding: 20px; border: 2px solid #e0e0e0; border-radius: 10px; background-color: #f9f9f9;">
-    <h2>📊 統計數據 | Statistics</h2>
-    <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WALKERKILLER&layout=compact&theme=radical&hide_border=true&hide_title=true" />
-    </div>
-  </div>
 
 </div>
 
